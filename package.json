@@ -1,0 +1,25 @@
+{
+  "name": "json-file-generator",
+  "version": "1.0.0",
+  "description": "Generate the random json file for ML training.",
+  "main": "json-file-generator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jy1989/json-file-generator.git"
+  },
+  "keywords": [
+    "json"
+  ],
+  "author": "jy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jy1989/json-file-generator/issues"
+  },
+  "homepage": "https://github.com/jy1989/json-file-generator#readme",
+  "dependencies": {
+    "puppeteer": "^1.10.0"
+  }
+}
